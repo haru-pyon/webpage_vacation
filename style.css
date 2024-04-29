@@ -1,0 +1,74 @@
+* {
+          padding: 0;
+          margin: 0;
+          box-sizing: border-box;
+        }
+        .plus-jakarta-sans {
+          font-family: "Plus Jakarta Sans", sans-serif;
+          font-optical-sizing: auto;
+          font-weight: 300;
+          font-style: normal;
+        }
+        .slackside-one-regular {
+          font-family: "Slackside One", cursive;
+          font-weight: 400;
+          font-style: normal;
+        }
+        body {
+          padding: 15vh 5%;
+          background-image: url("vacation.jpg");
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-position: left;
+          min-height: 100vh;
+          background-color: lightblue;
+          display: flex;
+          align-items: top;
+        }
+        .capped-width {
+          max-width: 150vh;
+        }
+        h1 {
+          color: #023047;
+          font-family: "Plus Jakarta Sans", serif;
+          margin-bottom: 1rem;
+          text-transform: capitalize;
+        }
+        h2 {
+          font-family: "Slackside One", serif;
+          font-size: 4rem;
+          margin-bottom: 1rem;
+          color: #fb8500;
+        }
+        nav {
+          font-family: "Plus Jakarta Sans", serif;
+        }
+        nav a {
+          display: inline-block;
+          color: inherit;
+          padding: 1rem;
+          margin-bottom: 2rem;
+          padding-right: 1rem;
+          text-decoration: none;
+        }
+        nav a:hover {
+          color: #fb8500;
+        }
+        a {
+          color: inherit;
+        }
+        a:hover {
+          color: #f7a072;
+        }
+        p {
+          width: 50vh;
+          font-size: 1rem;
+          padding: 0.5rem;
+          margin: 1rem;
+          font-family: "Plus Jakarta Sans";
+          border: 3px solid #b5e2fa;
+          text-align: justify;
+        }
+        span {
+          padding-left: 0.4rem;
+        }
