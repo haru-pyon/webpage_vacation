@@ -1,11 +1,7 @@
 # Webpage_vacation
 
 This is a sample webpage, to refresh my memory of html and CSS, created through a 5-day coding challenge provided by [The Institute of Code](https://www.instituteofcode.com/challenges/5-day-coding).\
-<<<<<<< HEAD
 Implementing simple html, CSS and JavaScript.
-=======
-Implementing simple html, CSS and Javascript.
->>>>>>> 45cde233f578a276d2d522c81f2bbb52cff41c7f
 
 ## Acknowledgements
 + [Google fonts](https://fonts.google.com)
