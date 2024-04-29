@@ -19,7 +19,7 @@
           background-image: url("vacation.jpg");
           background-size: cover;
           background-repeat: no-repeat;
-          background-position: left;
+          background-position: center;
           min-height: 100vh;
           background-color: lightblue;
           display: flex;
@@ -30,13 +30,14 @@
         }
         h1 {
           color: #023047;
+          font-size: 2rem;
           font-family: "Plus Jakarta Sans", serif;
           margin-bottom: 1rem;
           text-transform: capitalize;
         }
         h2 {
           font-family: "Slackside One", serif;
-          font-size: 4rem;
+          font-size: 5rem;
           margin-bottom: 1rem;
           color: #fb8500;
         }
@@ -50,6 +51,7 @@
           margin-bottom: 2rem;
           padding-right: 1rem;
           text-decoration: none;
+          font-size: 1rem;
         }
         nav a:hover {
           color: #fb8500;
