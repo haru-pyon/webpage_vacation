@@ -1,6 +1,6 @@
 # Webpage_vacation
 
-This is a sample webpage, to refresh my memory of html and CSS, created through a 5-day coding challenge provided by [The Institute of Code](https://www.instituteofcode.com/challenges/5-day-coding).\n\n
+This is a sample webpage, to refresh my memory of html and CSS, created through a 5-day coding challenge provided by [The Institute of Code](https://www.instituteofcode.com/challenges/5-day-coding).\
 Implementing simple html, CSS and Javascript.
 
 ## Acknowledgements
